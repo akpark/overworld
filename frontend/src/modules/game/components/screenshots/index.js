@@ -1,5 +1,5 @@
 import React from "react";
-import { Header, Segment, Image, Modal } from "semantic-ui-react";
+import { Header, Segment, Modal } from "semantic-ui-react";
 import { Screenshot } from "./Screenshot";
 import "./styles.css";
 
